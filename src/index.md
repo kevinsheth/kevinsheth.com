@@ -1,8 +1,6 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Home'
 ---
-
-# Hello World
 
 Byte-sized ideas in data and infrastructure
