@@ -1,10 +1,12 @@
 ---
 title: 'Running Python Scripts in Terraform '
-description: 'One day you will need to create infrastructure using Python. That day
-  was yesterday for me. '
+description: 'One day you will need to create infrastructure in Terraform using Python.
+  That day was yesterday for me. '
 permalink: posts/{{ title | slug }}/index.html
-date: 2020-11-26
+date: 2022-04-04T04:00:00Z
 tags:
+- Schema Registry
+- Azure
 - Terraform
 - Python
 
