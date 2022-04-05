@@ -7,7 +7,7 @@
     "email": "kevinsheth25@gmail.com",
     "twitterHandle": "author_handle"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
+  "defaultSocialImage": "",
   "headerLinks": [
     {
       "text": "Blog",
@@ -22,18 +22,13 @@
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/kevinsheth/",
       "external": true
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "LinkedIn",
+      "url": "https://linkedin.com/in/kevinsheth",
       "external": true
     }
   ],
